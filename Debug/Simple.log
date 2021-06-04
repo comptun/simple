@@ -1,0 +1,60 @@
+﻿  main.cpp
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(332,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(336,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(341,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(351,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(356,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(416,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(424,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(429,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(484,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(489,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(515,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(520,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(529,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(534,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(539,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(545,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(555,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(560,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(569,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(574,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(579,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(585,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(595,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(600,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(609,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(614,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(619,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(625,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(635,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(640,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(649,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(654,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(659,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(665,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(675,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(684,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(689,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(694,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(718,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(744,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(770,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(67): warning C4715: 'getToken': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(84): warning C4715: 'getStartInstruction': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(140): warning C4715: 'isInIf': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(101): warning C4715: 'getStartInstructionName': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(159): warning C4715: 'isInWhile': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(173): warning C4715: 'getWhileEnd': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(221): warning C4715: 'isInElse': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(202): warning C4715: 'getNearConditional': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(240): warning C4715: 'isInElif': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(260): warning C4715: 'getStartInstructionFromLineNum': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(275): warning C4715: 'getConditionals': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(293): warning C4715: 'getLineNum': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(310): warning C4715: 'isInConditional': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(434): warning C4715: 'getVarVal': not all control paths return a value
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(454): warning C4715: 'getNearIf': not all control paths return a value
+  Simple.vcxproj -> C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Debug\Simple.exe

@@ -1,0 +1,50 @@
+﻿  main.cpp
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(332,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(336,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(341,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(351,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(356,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(416,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(424,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(429,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(484,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(489,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(515,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(520,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(529,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(534,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(539,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(545,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(555,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(560,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(569,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(574,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(579,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(585,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(595,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(600,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(609,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(614,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(619,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(625,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(635,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(640,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(649,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(654,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(659,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(665,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(675,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(684,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(689,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(694,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(723,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(749,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Simple\main.cpp(775,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 476 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Simple.vcxproj -> C:\Users\jacke\OneDrive\Desktop\CPP\Simple\Release\Simple.exe
